@@ -1,0 +1,7 @@
+frontend/
+data/
+notebooks/
+.git
+.venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,16 @@
+# Données (licence Kaggle, trop lourdes)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Front : variables locales (ton IP)
+frontend/.env
+
+# Éditeur / système
+.vscode/
+.DS_Store
+frontend/.claude/
